@@ -1,0 +1,9 @@
+<resources>
+    <string name="lista_vacia">Sin Datos</string>
+    <string name="label_empleado">Sin Datos</string>
+    <string name="app_name">Final_proyecto_02_AG</string>
+    <string name="empleado1">Empleado 1</string>
+    <string name="empleado2">Empleado 2</string>
+    <string name="empleado3">Empleado 3</string>
+    <string name="empleado4">Empleado 4</string>
+</resources>

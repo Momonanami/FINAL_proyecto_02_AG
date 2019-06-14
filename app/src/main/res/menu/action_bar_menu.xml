@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app2="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemes.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_item"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Agregar item"
+        app2:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/empleado_1"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="empleado 1"
+        app2:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/empleado_2"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="empleado 2"
+        app2:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/empleado_3"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="empleado 3"
+        app2:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/empleado_4"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="empleado 4"
+        app2:showAsAction="ifRoom" />
+</menu>
